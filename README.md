@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started my career as a lecturer in Statistics. I love football (soccer) and like to explore on topics such as World War 2, Battles, Weapons and Interstellar stuff.
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mayurmahurkar) -->
+
+![](https://komarev.com/ghpvc/?username=mayurmahurkar)
