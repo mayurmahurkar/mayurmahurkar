@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Statistics, Machine Learning and Data Analysis.
 - 📫 How to reach me: mayur.colab@gmail.com
 - 😄 Pronouns: He | Him
-- ⚡ Fun fact: I started my career as a lecturer in Statistics. I love football (soccer) and like to explore on topics such as World War 2, Battles, Weapons and Interstellar stuff.
+- ⚡ Fun fact: I started my career as a lecturer in Statistics. I love football (soccer) and like to explore on topics such as World War 2, Historic Battles, Weapons and Interstellar stuff.
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mayurmahurkar) -->
 
